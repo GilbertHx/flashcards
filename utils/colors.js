@@ -1,0 +1,8 @@
+export const dark_primary_color = '#388E3C'
+export const light_primary_color = '#C8E6C9'
+export const primary_color = '#4CAF50'
+export const text_color = '#FFFFFF'
+export const accent_color = '#FFEB3B'
+export const primary_text_color = '#212121'
+export const secondary_text_color = '#757575'
+export const divider_color = '#BDBDBD'
